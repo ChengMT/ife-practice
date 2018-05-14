@@ -1,0 +1,60 @@
+.text-center{
+    text-align: center;
+}
+.content-img{
+    background-color: rgb(255, 255, 255);
+    margin:0 60px 0 60px ;
+}
+.text-right{
+    text-align: right;
+}
+.span{
+    font-weight: bolder;
+}
+
+.content{
+    min-height: 90%;
+    margin: 20px 40px 60px 40px;
+    background-color: rgb(238, 238, 238);
+}
+
+body{
+    min-height: 90%;
+}
+h1{
+    font-size:60px;
+    font-weight: bolder;
+}
+h2{
+    font-size:30px;
+}
+h3{
+    margin: 0 0 0 80px;
+}
+.img-all{
+    width: 80%;
+}
+.margin-list{
+    margin: 0 0 0 90px;
+}
+
+.reference-text{
+    font-size:15px;
+    font-weight: bolder;
+    margin: 0 70px 0 110px;
+  }
+
+.from-text{
+    font-size:13px;
+    margin: 0 0 0 110px;
+}
+
+.link-text{
+    margin: 0 0 0 80px;
+    padding: 0 0 20px 0;
+    font-weight: bolder;
+    font-size:17px;
+}
+.footer{
+  font-size:14px;
+}
